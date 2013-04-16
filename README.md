@@ -13,7 +13,7 @@ Usage
 
 1. Add the files `UIDatePicker+VisuallyDisabled.h` and `UIDatePicker+VisuallyDisabled.m` to your project.
 2. Place `#import "UIDatePicker+VisuallyDisabled.h"` in top of the files where you'd like to disable a UIDatePicker.
-3. Call `[theDatePicker visuallySetEnabled:NO];` to disable the UIDatePicker. Replace `NO` with `YES` to enable it afterwards.
+3. Call `[theDatePicker visuallySetEnabled:NO]` to disable the UIDatePicker. Replace `NO` with `YES` to enable it afterwards.
 
 Methods
 -------
